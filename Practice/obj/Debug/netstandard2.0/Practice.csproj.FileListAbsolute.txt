@@ -1,0 +1,17 @@
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/bin/Debug/netstandard2.0/Practice.deps.json
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/bin/Debug/netstandard2.0/Practice.dll
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/bin/Debug/netstandard2.0/ref/Practice.dll
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/bin/Debug/netstandard2.0/Practice.pdb
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/Practice.csproj.AssemblyReference.cache
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/Practice.AssemblyInfoInputs.cache
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/Practice.AssemblyInfo.cs
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/Practice.csproj.CoreCompileInputs.cache
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/Practice.dll
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/refint/Practice.dll
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/Practice.pdb
+/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs

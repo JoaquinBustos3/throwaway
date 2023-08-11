@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TiXCW2Qj/QAuGDDNzK42RjRXlVXWlWQs6oayVhSK0eA2fE0UiGjnYRgbCm68RivNcSSFhI18HuAQ0yyyWmaFqg==",
+  "success": true,
+  "projectFilePath": "/Users/joaquinbustos/CSharpLearning/Practice/Practice/Practice/Practice.csproj",
+  "expectedPackageFiles": [
+    "/Users/joaquinbustos/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/joaquinbustos/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/joaquinbustos/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/joaquinbustos/.nuget/packages/xamarin.essentials/1.7.7/xamarin.essentials.1.7.7.nupkg.sha512",
+    "/Users/joaquinbustos/.nuget/packages/xamarin.forms/5.0.0.2578/xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}
